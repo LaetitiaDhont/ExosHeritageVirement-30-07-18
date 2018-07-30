@@ -1,6 +1,7 @@
 package package1;
 
 // Mon account contient uniquement le solde 
+//
 
 public class Account {
 public double solde;
